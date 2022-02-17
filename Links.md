@@ -11,3 +11,7 @@ General project planning UKRIO guidelines:
 RNAi experiments: 
 1. http://miare.sourceforge.net/ChecklistV080
 2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6555184/ - 2019 guidelines article. Not sure 'official' guidelines but helpful
+
+
+To get material in from abroad: 
+1. https://www.gov.uk/guidance/abs - Nagoya protocol on access and benefit sharing - very important legal bit!
