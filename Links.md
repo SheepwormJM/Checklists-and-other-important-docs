@@ -15,6 +15,7 @@ RNAi experiments:
 
 To get material in from abroad: 
 1. https://www.gov.uk/guidance/abs - Nagoya protocol on access and benefit sharing - very important legal bit!
+2. https://absch.cbd.int/en/ - helpful for finding the Nagoya protocol people in each country. 
 
 
 To do a systematic review:
